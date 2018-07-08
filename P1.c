@@ -1,4 +1,4 @@
-/*Myllena GonÁalves*/ 
+/*Myllena Gon√ßalves Neto*/ 
 /*Matricula = 1172ETE006*/
 #include <stdio.h>
 
@@ -81,7 +81,7 @@ printf ("\nO estado e: %d\n", estado);
  }
  else 
  {
-     printf("O numero n„o e multiplo de 3");
+     printf("O numero n√£o e multiplo de 3");
  }
  
 return 0;
